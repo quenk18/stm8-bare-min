@@ -4,7 +4,7 @@
 #include "stm8s.h"
 
 #define EEPROM_START_ADDR      0x4000
-#define EEPROM_END_ADDR        0x407F
+#define EEPROM_END_ADDR        0x427F
 
 /* Option bytes */
 #define OPT0                   _MEM_(0x4800)
